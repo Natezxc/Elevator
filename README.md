@@ -1,6 +1,6 @@
 # Elevator
 
-![Present](https://natezxc.github.io/Elevator/)
+https://natezxc.github.io/Elevator/
 ## C:
 * This elevator is located at the Pioneer Apartments and Hotel on Broadway and K avenue.
  ![wordsstuff](photo.jpg)
