@@ -22,5 +22,5 @@ https://natezxc.github.io/Elevator/
 
 * The elevator does not make it easy to figure out. When no key is provided, the elevator provides no feedback as to why the elevator is not travelling to the selected location. It simply acts like a button was not pressed. It is required to put a label so that people can find the hotel floor.
 * Some common mistakes can be that the user thinks the elevator is broken because after pressing the button without the key, nothing happens.
-
+![photo](photo2.JPG)
 * Like a gated community, a number pad could be added to ring a person to activate the elevator. To fix the feedback, the elevator should add a sign with instructions or add some visual that will show the an error in input.
