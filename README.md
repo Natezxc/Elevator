@@ -1,6 +1,6 @@
 # Elevator
 
-![wordsstuff](photo) ![wordsstuff](photo.jpg)
+![wordsstuff](photo) ![wordsstuff](photo.JPG)
 ![wordsstuff](gif.gif)
 
 The elevator's current design requires a resident key to use the elevator. This makes it hard for guests or even residents if they happen to misplace their keys to get to where they are trying to go.
