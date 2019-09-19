@@ -2,7 +2,7 @@
 
 
 ## C:
-..* This elevator is located at the Pioneer Apartments and Hotel on Broadway and K avenue.
+* This elevator is located at the Pioneer Apartments and Hotel on Broadway and K avenue.
  ![wordsstuff](photo.jpg)
  
 ![wordsstuff](gif.gif)
